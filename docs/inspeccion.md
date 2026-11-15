@@ -6,9 +6,9 @@ Inspección hecha sin ejecutar pruebas funcionales, solo leyendo el código, com
 
 | Rol | Persona | Tarea |
 |-----|---------|-------|
-| Autor | [Nombre del autor] | Explica el código y lo corrige |
-| Revisor | [Nombre del revisor] | Lee el código con el checklist y encuentra defectos |
-| Registrador | [Nombre del registrador] | Anota los hallazgos, la severidad y las decisiones |
+| Autor | [Abelardo Merchan] | Explica el código y lo corrige |
+| Revisor | [Abelardo Merchan] | Lee el código con el checklist y encuentra defectos |
+| Registrador | [Abelardo Merchan] | Anota los hallazgos, la severidad y las decisiones |
 
 ## Hallazgos
 

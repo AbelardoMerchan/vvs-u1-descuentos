@@ -1,15 +1,21 @@
 {
   "name": "vvs-u1-descuentos",
   "version": "1.0.0",
-  "description": "Actividad de la Unidad 1 (Verificación y Validación de Software). Repositorio en construcción.",
-  "main": "index.js",
+  "description": "Auditoria estatica del modulo de descuentos (VVS U1)",
+  "main": "src/descuentos.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5"
+  }
 }

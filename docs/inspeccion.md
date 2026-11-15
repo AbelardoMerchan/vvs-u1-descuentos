@@ -10,6 +10,8 @@ Inspección hecha sin ejecutar pruebas funcionales, solo leyendo el código, com
 | Revisor | [Abelardo Merchan] | Lee el código con el checklist y encuentra defectos |
 | Registrador | [Abelardo Merchan] | Anota los hallazgos, la severidad y las decisiones |
 
+La inspección fue realizada por una sola persona alternando los roles de autor, revisor y registrador
+
 ## Hallazgos
 
 | ID | Origen | Línea | Hallazgo | Severidad | Evidencia | Acción | Estado |
